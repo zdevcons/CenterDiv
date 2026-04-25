@@ -98,6 +98,7 @@ nav>ul>li a{
 }
 .board-container{
     text-align: center;
+    position: relative;
     width: var(--width-content-body);
     height: 80%;
     margin: auto;
